@@ -11,5 +11,10 @@ namespace Grade_tracker_start
         {
             MessageBox.Show("yay");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("boo");
+        }
     }
 }
